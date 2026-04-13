@@ -24,6 +24,28 @@ AI 驅動的直式影片編輯器，專為 9:16 短影音（Reels / Shorts / Tik
 
 前往 [Releases](https://github.com/chenisan/13SoulMU/releases) 下載最新版本。
 
+| 檔案 | 說明 |
+|---|---|
+| `13SoulMU Setup x.x.x.exe` | 安裝版（建議） |
+| `13SoulMU-x.x.x-portable-win-x64.zip` | 免安裝版，解壓後直接執行 `13SoulMU.exe` |
+
+## 安裝說明
+
+本軟體尚未購買程式碼簽章憑證，Windows 可能會顯示安全性警告，這是正常現象。
+
+### 瀏覽器下載時
+
+Chrome 可能顯示「不常下載的檔案」，點擊 **保留** 即可。
+
+### 安裝或執行時
+
+Windows SmartScreen 可能顯示「Windows 已保護您的電腦」：
+
+1. 點擊 **「其他資訊」**（More info）
+2. 點擊 **「仍要執行」**（Run anyway）
+
+這是因為程式沒有數位簽章，並非惡意軟體。
+
 ## 回報問題
 
 如果遇到問題，歡迎在 [Issues](https://github.com/chenisan/13SoulMU/issues) 回報。
